@@ -1,4 +1,4 @@
-# Introduction
+# T-Test and Sign Test
 
 In short, we use the t-test to compare means across sample(s) and the sign test to compare medians across sample(s).
 
